@@ -32,4 +32,4 @@ for newCrop in range(0,30):
     cropLocationX += cropWidth
     print("cropLocationX: ",cropLocationX)
     
-newImage.save("newImage.jpg")
+newImage.save("newGeneratedImage.jpg")
